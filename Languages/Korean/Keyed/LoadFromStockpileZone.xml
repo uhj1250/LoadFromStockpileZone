@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Gizmo_LoadStockpile>저장구역에서 적재</Gizmo_LoadStockpile>
+	<Gizmo_LoadStockpileGroup>저장구역에서 {0} 적재</Gizmo_LoadStockpileGroup>
+	<Gizmo_LoadStockpileDesc>저장구역을 기준으로 아이템을 적재합니다.</Gizmo_LoadStockpileDesc>
+</LanguageData>

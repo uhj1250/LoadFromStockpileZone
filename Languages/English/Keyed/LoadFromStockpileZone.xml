@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Gizmo_LoadStockpile>Load from Stockpile Zone</Gizmo_LoadStockpile>
+	<Gizmo_LoadStockpileGroup>Load {0} from Stockpile Zone</Gizmo_LoadStockpileGroup>
+	<Gizmo_LoadStockpileDesc>Load items from stockpile zone</Gizmo_LoadStockpileDesc>
+</LanguageData>
